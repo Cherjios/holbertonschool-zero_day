@@ -1,1 +1,0 @@
-This shows some commands for emacs 
