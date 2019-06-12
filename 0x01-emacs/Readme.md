@@ -1,1 +1,0 @@
-this file you will find some command for emacs 
